@@ -1,0 +1,118 @@
+.contact-page,
+.contact-page * {
+  box-sizing: border-box;
+}
+.contact-page {
+  background: #c4d0e0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-section {
+  padding: 44px 43px 44px 43px;
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1350px;
+  height: 598px;
+  position: absolute;
+  left: 43px;
+  top: 147px;
+  overflow: hidden;
+}
+.title {
+  color: #fffcfc;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.subtitle {
+  color: #fffcfc;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 62px;
+}
+.professor-contact-details {
+  color: #fffcfc;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 154px;
+}
+.ta-contact-details {
+  color: #fffcfc;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+  height: 228px;
+}
+.navigation-bar {
+  width: 1440px;
+  height: 144px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 63px;
+  width: 464px;
+  height: 47px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 284px;
+  position: absolute;
+  left: 1055px;
+  top: 68px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}

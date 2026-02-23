@@ -1,0 +1,136 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #c4d0e0;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.hero-section {
+  width: 1440px;
+  height: 717px;
+  position: absolute;
+  left: 0px;
+  top: 147px;
+  overflow: hidden;
+}
+.titles {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1066px;
+  position: absolute;
+  left: 187px;
+  top: 152px;
+}
+.heading {
+  color: #fffcfc;
+  text-align: center;
+  position: relative;
+  align-self: stretch;
+  height: 73px;
+}
+.heading-span {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 60px;
+  font-weight: 700;
+}
+.heading-span2 {
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.subtitle {
+  color: #fffcfc;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: relative;
+  width: 971px;
+  height: 77px;
+}
+.call-to-action-button {
+  background: #a8ff35;
+  border-radius: 10px;
+  width: 180px;
+  height: 57px;
+  position: absolute;
+  left: 630px;
+  top: 361px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.get-started {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 630px;
+  top: 361px;
+  width: 180px;
+  height: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.navigation-bar {
+  width: 1440px;
+  height: 144px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 40px;
+  font-weight: 700;
+  position: absolute;
+  left: 80px;
+  top: 63px;
+  width: 464px;
+  height: 47px;
+}
+.menu-items {
+  display: flex;
+  flex-direction: row;
+  gap: 41px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 284px;
+  position: absolute;
+  left: 1055px;
+  top: 68px;
+}
+.homepage {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+}
